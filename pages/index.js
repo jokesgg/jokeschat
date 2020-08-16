@@ -6,7 +6,7 @@ export default function Index({ hi, preview }) {
 
   return (
     <Layout>
-        <p>hi</p>
+        <img src="https://i.imgur.com/Fa0nYet.png"></img>
     </Layout>
   );
 }
